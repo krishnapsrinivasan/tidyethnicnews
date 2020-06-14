@@ -6,7 +6,7 @@ Author: [Jae Yeon Kim](https://jaeyk.github.io/)
 
 ## Summary
 
-The [Ethnic NewsWatch database](https://about.proquest.com/products-services/ethnic_newswatch.html), provided by [ProQuest](https://about.proquest.com/), has compiled more than 2.5 million articles published in US ethnic newspapers and magazines. The database covers the following groups:
+The [Ethnic NewsWatch database](https://about.proquest.com/products-services/ethnic_newswatch.html), provided by [ProQuest](https://about.proquest.com/), has compiled more than **2.5 million** articles published in US ethnic newspapers and magazines. The database covers the following groups:
 
 - African American/AfroCaribbean
 - Arab/Middle Eastern
